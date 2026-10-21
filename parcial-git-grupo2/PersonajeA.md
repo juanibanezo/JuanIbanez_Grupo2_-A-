@@ -1,3 +1,5 @@
+# Título Gordon Moore
+## Subtítulos Información personal Ocupación: químico, empresario y cofundador de Intel.
 Gordon Moore
 <br>
 <img src="https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/thumb/e/ef/Gordon_E._Moore_2393.jpg/459px-Gordon_E._Moore_2393.jpg" alt="Fotografía de Gordon Moore" width="600">
