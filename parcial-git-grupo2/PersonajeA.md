@@ -6,7 +6,7 @@ Información personal
 <br>
 - Ocupación: químico, empresario y cofundador de Intel.
 <br>
-- Fecha de nacimiento: tres de enero de mil novecientos veintinueve.
+- Fecha de nacimiento:  03/01/1929
 <br>
 - Estudios: licenciatura en química en la Universidad de California en Berkeley; doctorado en química y física en Caltech.
 <br>
