@@ -4,15 +4,15 @@ Gordon Moore
 <br><br><br>
 Información personal
 <br>
-- Ocupación: químico, empresario y cofundador de Intel.
-<br>
 - Fecha de nacimiento: tres de enero de mil novecientos veintinueve.
 <br>
-- Estudios: licenciatura en química en la Universidad de California en Berkeley; doctorado en química y física en Caltech.
+- Fecha de muerte: veinticuatro de marzo de dos mil veintitrés.
 <br>
 - Área de conocimiento: semiconductores y microelectrónica.
 <br>
-- Fecha de muerte: veinticuatro de marzo de dos mil veintitrés.
+- Ocupación: químico, empresario y cofundador de Intel.
+<br>
+- Estudios: licenciatura en química en la Universidad de California en Berkeley; doctorado en química y física en Caltech.
 <br><br><br>
 Aportes
 <br>
