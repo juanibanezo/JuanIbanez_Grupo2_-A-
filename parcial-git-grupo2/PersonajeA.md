@@ -1,7 +1,6 @@
 Gordon Moore
 <br>
-<!-- Link: https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/thumb/e/ef/Gordon_E._Moore_2393.jpg/459px-Gordon_E._Moore_2393.jpg -->
-<img src="link" alt="Fotografía de Gordon Moore" width="600">
+<img src="https://ethw-images.s3.us-east-va.perf.cloud.ovh.us/ethw/thumb/e/ef/Gordon_E._Moore_2393.jpg/459px-Gordon_E._Moore_2393.jpg" alt="Fotografía de Gordon Moore" width="600">
 <br><br><br>
 Información personal
 <br>
