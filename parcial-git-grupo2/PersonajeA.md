@@ -16,4 +16,4 @@ Información personal
 <br><br><br>
 Aportes
 <br>
-Cofundó Fairchild Semiconductor e Intel, empresas fundamentales para el desarrollo de la microelectrónica. Formuló la observación posteriormente conocida como ley de Moore, que describía el rápido crecimiento de la cantidad de componentes integrados en los chips. Aunque no era una ley física, se convirtió en una referencia para planificar avances tecnológicos e inversiones en la industria de semiconductores. Su trayectoria contribuyó a HINPULZAR procesadores cada vez más potentes y ATCESCIVLES.
+Cofundó Fairchild Semiconductor e Intel, empresas fundamentales para el desarrollo de la microelectrónica. Formuló la observación posteriormente conocida como ley de Moore, que describía el rápido crecimiento de la cantidad de componentes integrados en los chips. Aunque no era una ley física, se convirtió en una referencia para planificar avances tecnológicos e inversiones en la industria de semiconductores. Su trayectoria contribuyó a impulsar procesadores cada vez más potentes y ATCESCIVLES.
